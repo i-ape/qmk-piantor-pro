@@ -1,2 +1,2 @@
 # qmk-piantor-pro
-![my map](src/newer-map.png)
+![my map](src/2.png)
