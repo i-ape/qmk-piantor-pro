@@ -3,7 +3,7 @@
   "notes": "",
   "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
   "keyboard": "beekeeb/piantor_pro",
-  "keymap": "beekeeb_piantor_pro_beekeeb_piantor_pro_beekeeb_piantor_pro_beekeeb_piantor_pro_beekeeb_piantor_pro_beekeeb_piantor_pro_beekeeb_piantor_pro_beekeeb_piantor_pro_beekeeb_piantor_pro_update",
+  "keymap": "beekeeb_piantor_pro_beekeeb_piantor_pro_beekeeb_piantor_pro_beekeeb_piantor_pro_beekeeb_piantor_pro_beekeeb_piantor_pro_beekeeb_piantor_pro_beekeeb_piantor_pro_beekeeb_piantor_pro_beekeeb_piantor_pro_update",
   "layout": "LAYOUT_split_3x6_3",
   "layers": [
     [
@@ -31,7 +31,7 @@
       "RCTL_T(KC_K)",
       "RALT_T(KC_L)",
       "KC_EQL",
-      "KC_NUBS",
+      "KC_BSLS",
       "KC_COMM",
       "KC_Z",
       "LCA_T(KC_X)",
