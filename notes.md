@@ -1,3 +1,4 @@
 # notes
 
-this is not ideal but the pinky is in a better possition, must practice and look at options.
+now its kinda like a totem
+pinky only goes down or to the side, made layer 6 but is currently empty, symbols?
