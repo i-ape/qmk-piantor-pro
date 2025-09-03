@@ -4,8 +4,6 @@ QMK Piantor Pro Totem Layout
 
 Custom QMK firmware for the Piantor Pro keyboard with a unique totem-inspired layout.
 
-
-
 About
 
 This repository contains the custom QMK keymap and configuration files for the Piantor Pro, a low-profile split keyboard. The layout is inspired by symbolic balance and symmetry, reflecting the aesthetics of the included totem design.
