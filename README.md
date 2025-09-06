@@ -23,7 +23,7 @@ must clarify navigation and mouse layers
 currently over 3 layers goal 2
 
 letters
-numbers
+numbers !!!!!! media right l1, #mods move to l2 left at top?!!!
 media
 direction
 mouse
@@ -32,3 +32,9 @@ made with <https://config.qmk.fm/#/beekeeb/piantor_pro/LAYOUT_split_3x6_3>
 
 ![my map](src/1-3.png)
 ![my map](src/4-6.png)
+
+
+## notes
+
+
+media right l1, number symbols mods move to l2 left at top?!!!
