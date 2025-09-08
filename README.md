@@ -23,7 +23,6 @@ made with <https://config.qmk.fm/#/beekeeb/piantor_pro/LAYOUT_split_3x6_3>
 ![my map](src/1-3.png)
 ![my map](src/4-6.png)
 
-
 notes:
 must clarify navigation and mouse layers
 currently over 3 layers goal 2
