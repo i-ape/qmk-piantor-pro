@@ -32,3 +32,5 @@ numbers
 media
 direction
 mouse
+
+mouse scroll needed on mouse layer
