@@ -17,7 +17,7 @@
       "RCAG_T(KC_U)",
       "RALT_T(KC_I)",
       "KC_O",
-      "TO(4)",
+      "TT(4)",
       "KC_NO",
       "LT(5,KC_MINS)",
       "LT(4,KC_A)",
@@ -45,9 +45,9 @@
       "LT(8,KC_DOT)",
       "KC_BSPC",
       "MEH_T(KC_SPC)",
-      "SC_SENT",
-      "KC_RGUI",
       "HYPR_T(KC_TAB)",
+      "KC_RGUI",
+      "SC_SENT",
       "QK_GESC"
     ],
     [
@@ -78,7 +78,7 @@
       "KC_NO",
       "KC_NO",
       "KC_1",
-      "KC_2",
+      "LSFT(KC_2)",
       "KC_3",
       "KC_NO",
       "KC_NO",
@@ -89,9 +89,9 @@
       "KC_NO",
       "KC_DEL",
       "MEH_T(KC_SPC)",
-      "SC_SENT",
-      "KC_RGUI",
       "HYPR_T(KC_TAB)",
+      "KC_RGUI",
+      "SC_SENT",
       "QK_GESC"
     ],
     [
@@ -133,9 +133,9 @@
       "KC_NO",
       "KC_BSPC",
       "MEH_T(KC_SPC)",
-      "SC_SENT",
-      "KC_LGUI",
       "HYPR_T(KC_TAB)",
+      "KC_LGUI",
+      "SC_SENT",
       "QK_GESC"
     ],
     [
@@ -177,9 +177,9 @@
       "KC_NO",
       "KC_BSPC",
       "MEH_T(KC_SPC)",
-      "SC_SENT",
-      "KC_RGUI",
       "HYPR_T(KC_TAB)",
+      "KC_RGUI",
+      "SC_SENT",
       "QK_GESC"
     ],
     [
@@ -193,7 +193,7 @@
       "KC_PGUP",
       "KC_UP",
       "KC_PGDN",
-      "KC_NO",
+      "KC_TRNS",
       "KC_NO",
       "MS_WHLL",
       "MS_WHLR",
@@ -213,7 +213,7 @@
       "MS_BTN4",
       "MS_BTN5",
       "KC_NO",
-      "KC_NO",
+      "MO(0)",
       "KC_INS",
       "KC_HOME",
       "KC_DEL",
@@ -221,9 +221,9 @@
       "KC_NO",
       "KC_BSPC",
       "MEH_T(KC_SPC)",
-      "SC_SENT",
-      "KC_RGUI",
       "HYPR_T(KC_TAB)",
+      "KC_RGUI",
+      "SC_SENT",
       "QK_GESC"
     ],
     [
@@ -265,9 +265,9 @@
       "KC_NO",
       "KC_BSPC",
       "MEH_T(KC_SPC)",
-      "SC_SENT",
-      "KC_RGUI",
       "HYPR_T(KC_TAB)",
+      "KC_RGUI",
+      "SC_SENT",
       "QK_GESC"
     ],
     [
