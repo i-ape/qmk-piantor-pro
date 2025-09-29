@@ -7,7 +7,7 @@
   "layout": "LAYOUT_split_3x6_3",
   "layers": [
     [
-      "KC_NO",
+      "KC_LALT",
       "KC_COMM",
       "KC_W",
       "KC_E",
@@ -18,7 +18,7 @@
       "KC_I",
       "KC_O",
       "KC_DOT",
-      "KC_NO",
+      "KC_TAB",
       "LT(5,KC_MINS)",
       "LT(4,KC_A)",
       "LCTL_T(KC_S)",
@@ -44,10 +44,10 @@
       "LT(6,KC_P)",
       "KC_EXEC",
       "KC_BSPC",
-      "MEH_T(KC_SPC)",
-      "HYPR_T(KC_TAB)",
-      "KC_RGUI",
       "SC_SENT",
+      "RGUI_T(KC_LALT)",
+      "HYPR_T(KC_TAB)",
+      "MEH_T(KC_SPC)",
       "QK_GESC"
     ],
     [
@@ -88,10 +88,10 @@
       "KC_NO",
       "KC_NO",
       "KC_DEL",
-      "MEH_T(KC_SPC)",
-      "HYPR_T(KC_TAB)",
-      "KC_RGUI",
       "SC_SENT",
+      "RGUI(KC_LALT)",
+      "HYPR_T(KC_TAB)",
+      "MEH_T(KC_SPC)",
       "QK_GESC"
     ],
     [
@@ -132,10 +132,10 @@
       "KC_NO",
       "KC_NO",
       "KC_BSPC",
-      "MEH_T(KC_SPC)",
-      "HYPR_T(KC_TAB)",
-      "KC_LGUI",
       "SC_SENT",
+      "LGUI(KC_LALT)",
+      "HYPR_T(KC_TAB)",
+      "MEH_T(KC_SPC)",
       "QK_GESC"
     ],
     [
@@ -176,10 +176,10 @@
       "KC_F16",
       "KC_NO",
       "KC_BSPC",
-      "MEH_T(KC_SPC)",
-      "HYPR_T(KC_TAB)",
-      "KC_RGUI",
       "SC_SENT",
+      "LGUI(KC_LALT)",
+      "HYPR_T(KC_TAB)",
+      "MEH_T(KC_SPC)",
       "QK_GESC"
     ],
     [
@@ -220,10 +220,10 @@
       "KC_NO",
       "KC_NO",
       "KC_BSPC",
-      "MEH_T(KC_SPC)",
-      "HYPR_T(KC_TAB)",
-      "KC_RGUI",
       "SC_SENT",
+      "KC_RGUI",
+      "HYPR_T(KC_TAB)",
+      "MEH_T(KC_SPC)",
       "QK_GESC"
     ],
     [
@@ -264,10 +264,10 @@
       "KC_NO",
       "KC_NO",
       "KC_BSPC",
-      "MEH_T(KC_SPC)",
-      "HYPR_T(KC_TAB)",
-      "KC_RGUI",
       "SC_SENT",
+      "KC_RGUI",
+      "HYPR_T(KC_TAB)",
+      "MEH_T(KC_SPC)",
       "QK_GESC"
     ],
     [
