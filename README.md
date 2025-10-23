@@ -1,34 +1,62 @@
 # qmk-piantor-pro
 
-QMK Piantor Pro Totem Layout
+## ⚙️ Features
 
-Custom QMK firmware for the Piantor Pro keyboard with a unique totem-inspired layout.
+- Split **ergonomic** layout  
+- **Symmetric** layer structure (mirrored logic left/right)  
+- Full **QMK feature support**: tap dance, mod-tap, combos  
+- Optimized for **minimal hand travel** and **maximum comfort**  
+- Includes **custom thumb cluster logic**  
+- Uses new **map sorting method** for cleaner layer organization
 
-About
+---
 
-This repository contains the custom QMK keymap and configuration files for the Piantor Pro, a low-profile split keyboard. The layout is inspired by symbolic balance and symmetry, reflecting the aesthetics of the included totem design.
+## 🗺️ Layout
 
-Features
+| Layer | Purpose |
+|-------|----------|
+| Base  | Letters, symbols |
+| Nav   | Directional, shortcuts |
+| Media | Volume, playback, system |
+| Num   | Numbers and symbols |
+| Game  | TBD (planned for Layer 5) |
+| Mouse | Cursor and click control |
 
-Split ergonomic layout
-
-Custom symmetric layer design
-
-Support for QMK features: tap dance, mod-tap, combos
-
-Designed for minimal movement and maximum comfort
 
 made with <https://config.qmk.fm/#/beekeeb/piantor_pro/LAYOUT_split_3x6_3>
 
-![my map](src/1-3.png)
-![my map](src/4-6.png)
+![0-2](src/bknavscentrdmehcwhypertesc.....1.png)
+![3-5](src/bknavscentrdmehcwhypertesc.....2.png)
 
-notes:
-must clarify navigation and mouse layers
-currently over 3 layers goal 2
+---
 
-letters
-numbers
-media
-direction
-mouse
+## 🧩 Notes
+
+- New approach to **sorting keymaps**  
+- Refined **thumb cluster** mapping  
+- Layer logic designed for **flow and mirroring**
+
+---
+
+## 🎯 Goals
+
+**Short term**
+
+- ✅ Polish and finalize base, nav, and media layers  
+- ✅ Improve tap/hold behavior consistency  
+- 🔲 Implement and test **Layer 5 (Game layer)**  
+
+**Long term**
+
+- 🔲 Create **modular layer system** (dynamic layout switching)
+- 🔲 Add **auto-shift** and **combos** for faster input  
+- 🔲 Refine **layer naming** for clarity  
+- 🔲 Document workflow for **future builds or forks**
+
+---
+
+## 🧰 Build & Flash
+
+```bash
+qmk compile -kb beekeeb/piantor_pro -km totem
+qmk flash -kb beekeeb/piantor_pro -km totem
