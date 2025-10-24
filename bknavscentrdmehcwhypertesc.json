@@ -1,7 +1,6 @@
 {
   "version": 1,
-  "notes": "My awesome keymap",
-  "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
+  "documentation": "This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\n",
   "keyboard": "beekeeb/piantor_pro",
   "keymap": "bknavscentrdmehcwhypertesc",
   "layout": "LAYOUT_split_3x6_3",
@@ -44,8 +43,8 @@
       "KC_P",
       "KC_EXEC",
       "KC_BSPC",
-      "LT(4,KC_SPC)",
       "SC_SENT",
+      "LT(4,KC_SPC)",
       "ANY(MEH_T(CW_TOGG))",
       "HYPR_T(KC_TAB)",
       "QK_GESC"
@@ -88,8 +87,8 @@
       "KC_NO",
       "KC_NO",
       "KC_DEL",
-      "KC_LGUI",
       "SC_SENT",
+      "KC_LGUI",
       "MEH_T(KC_SPC)",
       "HYPR_T(KC_TAB)",
       "QK_GESC"
@@ -132,8 +131,8 @@
       "KC_NO",
       "KC_NO",
       "KC_BSPC",
-      "KC_LGUI",
       "SC_SENT",
+      "KC_LGUI",
       "MEH_T(KC_SPC)",
       "HYPR_T(KC_TAB)",
       "QK_GESC"
@@ -711,5 +710,6 @@
       "KC_TRNS"
     ]
   ],
-  "author": "Anonymous"
+  "author": "Anonymous",
+  "notes": "My awesome keymap"
 }
