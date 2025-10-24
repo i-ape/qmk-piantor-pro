@@ -22,7 +22,6 @@
 | Game  | TBD (planned for Layer 5) |
 | Mouse | Cursor and click control |
 
-
 made with <https://config.qmk.fm/#/beekeeb/piantor_pro/LAYOUT_split_3x6_3>
 
 ![0-2](src/bknavscentrdmehcwhypertesc.....1.png)
