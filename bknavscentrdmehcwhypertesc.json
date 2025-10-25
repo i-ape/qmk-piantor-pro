@@ -1,13 +1,14 @@
 {
   "version": 1,
-  "documentation": "This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\n",
+  "notes": "My awesome keymap",
+  "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
   "keyboard": "beekeeb/piantor_pro",
   "keymap": "bknavscentrdmehcwhypertesc",
   "layout": "LAYOUT_split_3x6_3",
   "layers": [
     [
       "KC_NO",
-      "KC_COMM",
+      "KC_MENU",
       "LSA_T(KC_W)",
       "LALT_T(KC_E)",
       "LAG_T(KC_R)",
@@ -16,7 +17,7 @@
       "RAG_T(KC_U)",
       "RALT_T(KC_I)",
       "RSA_T(KC_O)",
-      "KC_DOT",
+      "KC_EXEC",
       "KC_NO",
       "LT(5,KC_MINS)",
       "LT(4,KC_A)",
@@ -30,7 +31,7 @@
       "RCTL_T(KC_K)",
       "LT(4,KC_L)",
       "LT(5,KC_EQL)",
-      "KC_MENU",
+      "KC_COMM",
       "KC_Z",
       "LT(3,KC_X)",
       "LT(2,KC_C)",
@@ -41,10 +42,10 @@
       "LT(2,KC_N)",
       "LT(3,KC_M)",
       "KC_P",
-      "KC_EXEC",
+      "KC_DOT",
       "KC_BSPC",
-      "SC_SENT",
       "LT(4,KC_SPC)",
+      "SC_SENT",
       "ANY(MEH_T(CW_TOGG))",
       "HYPR_T(KC_TAB)",
       "QK_GESC"
@@ -87,8 +88,8 @@
       "KC_NO",
       "KC_NO",
       "KC_DEL",
-      "SC_SENT",
       "KC_LGUI",
+      "SC_SENT",
       "MEH_T(KC_SPC)",
       "HYPR_T(KC_TAB)",
       "QK_GESC"
@@ -131,8 +132,8 @@
       "KC_NO",
       "KC_NO",
       "KC_BSPC",
-      "SC_SENT",
       "KC_LGUI",
+      "SC_SENT",
       "MEH_T(KC_SPC)",
       "HYPR_T(KC_TAB)",
       "QK_GESC"
@@ -710,6 +711,5 @@
       "KC_TRNS"
     ]
   ],
-  "author": "Anonymous",
-  "notes": "My awesome keymap"
+  "author": "Anonymous"
 }
