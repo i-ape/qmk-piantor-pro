@@ -54,7 +54,6 @@ made with <https://config.qmk.fm/#/beekeeb/piantor_pro/LAYOUT_split_3x6_3>
 
 ---
 
-.bs for streak
 
 ## 🧰 Build & Flash
 
