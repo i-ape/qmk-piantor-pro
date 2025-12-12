@@ -220,11 +220,11 @@
       "MS_ACL0",
       "KC_NO",
       "KC_BSPC",
-      "KC_RGUI",
+      "KC_NO",
       "SC_SENT",
-      "MEH_T(KC_SPC)",
-      "HYPR_T(KC_TAB)",
-      "QK_GESC"
+      "MS_BTN1",
+      "MS_BTN2",
+      "MS_BTN3"
     ],
     [
       "KC_TAB",
