@@ -47,7 +47,7 @@
       "LT(4,KC_SPC)",
       "SC_SENT",
       "MEH_T(KC_TAB)",
-      "KC_LCTL",
+      "ANY(HYPR_T(MS_BTN3))",
       "QK_GESC"
     ],
     [
@@ -134,8 +134,8 @@
       "KC_BSPC",
       "KC_LGUI",
       "KC_RSFT",
-      "MEH_T(KC_SPC)",
-      "HYPR_T(KC_TAB)",
+      "KC_LSFT",
+      "KC_RCTL",
       "QK_GESC"
     ],
     [
@@ -178,8 +178,8 @@
       "KC_BSPC",
       "KC_LGUI",
       "SC_SENT",
-      "MEH_T(KC_SPC)",
-      "HYPR_T(KC_TAB)",
+      "KC_RSFT",
+      "KC_RCTL",
       "QK_GESC"
     ],
     [
@@ -219,7 +219,7 @@
       "KC_DEL",
       "KC_NO",
       "KC_NO",
-      "KC_BSPC",
+      "KC_DEL",
       "KC_LGUI",
       "SC_SENT",
       "MS_BTN1",
@@ -230,7 +230,7 @@
       "KC_TAB",
       "KC_M",
       "KC_Q",
-      "KC_W",
+      "KC_UP",
       "KC_E",
       "KC_R",
       "TO(5)",
@@ -241,9 +241,9 @@
       "KC_NO",
       "KC_LCTL",
       "KC_N",
-      "KC_A",
-      "KC_S",
-      "KC_D",
+      "KC_LEFT",
+      "KC_DOWN",
+      "KC_RGHT",
       "KC_F",
       "KC_NO",
       "KC_NO",
@@ -266,8 +266,8 @@
       "KC_LALT",
       "KC_SPC",
       "KC_LSFT",
-      "MEH_T(KC_SPC)",
-      "HYPR_T(KC_TAB)",
+      "MEH_T(KC_TAB)",
+      "HYPR_T(MS_BTN3)",
       "QK_GESC"
     ],
     [
