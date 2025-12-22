@@ -90,8 +90,8 @@
       "KC_DEL",
       "KC_LGUI",
       "KC_LSFT",
-      "MEH_T(KC_TAB)",
-      "HYPR_T(KC_SPC)",
+      "MEH(KC_NO)",
+      "HYPR(KC_NO)",
       "QK_GESC"
     ],
     [
