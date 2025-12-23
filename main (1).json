@@ -44,10 +44,10 @@
       "LT(3,KC_DOT)",
       "QK_AREP",
       "KC_BSPC",
-      "ANY(LT(4,MS_BTN3))",
+      "LT(4,KC_SPC)",
       "SC_SENT",
       "MEH_T(KC_TAB)",
-      "HYPR_T(KC_SPC)",
+      "HYPR_T(MS_BTN3)",
       "QK_GESC"
     ],
     [
@@ -134,8 +134,8 @@
       "KC_BSPC",
       "KC_LGUI",
       "KC_RSFT",
-      "KC_LSFT",
-      "KC_RCTL",
+      "MEH(KC_NO)",
+      "HYPR(KC_NO)",
       "QK_GESC"
     ],
     [
@@ -178,8 +178,8 @@
       "KC_BSPC",
       "KC_LGUI",
       "SC_SENT",
-      "KC_RSFT",
-      "KC_RCTL",
+      "MEH(KC_NO)",
+      "HYPR(KC_NO)",
       "QK_GESC"
     ],
     [
