@@ -8,7 +8,7 @@
   "layers": [
     [
       "KC_MENU",
-      "KC_Z",
+      "KC_COMM",
       "LAG_T(KC_W)",
       "MEH_T(KC_E)",
       "HYPR_T(KC_R)",
@@ -17,7 +17,7 @@
       "HYPR_T(KC_U)",
       "MEH_T(KC_I)",
       "RAG_T(KC_O)",
-      "KC_P",
+      "KC_DOT",
       "LT(5,KC_EXEC)",
       "KC_MINS",
       "LT(4,KC_A)",
@@ -32,7 +32,7 @@
       "LT(4,KC_L)",
       "KC_EQL",
       "QK_REP",
-      "LT(3,KC_COMM)",
+      "LT(3,KC_Z)",
       "KC_X",
       "LT(2,KC_C)",
       "LT(1,KC_V)",
@@ -41,13 +41,13 @@
       "LT(1,KC_B)",
       "LT(2,KC_N)",
       "KC_M",
-      "LT(3,KC_DOT)",
+      "LT(3,KC_P)",
       "QK_AREP",
       "KC_BSPC",
       "LT(4,KC_SPC)",
       "SC_SENT",
       "MEH_T(KC_TAB)",
-      "HYPR_T(MS_BTN3)",
+      "ANY(HYPR_T(MS_BTN3))",
       "QK_GESC"
     ],
     [
