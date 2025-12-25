@@ -24,7 +24,7 @@
 
 made with <https://config.qmk.fm/#/beekeeb/piantor_pro/LAYOUT_split_3x6_3>
 
-![0-2](src/main0-2.png)
+![0-2](src/main0-3.png)
 ![3-5](src/main3-7.png)
 
 ---
