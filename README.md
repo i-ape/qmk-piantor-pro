@@ -1,56 +1,59 @@
 # qmk-piantor-pro
 
-## ⚙️ Features
-
-- Split **ergonomic** layout  
-- **Symmetric** layer structure (mirrored logic left/right)  
-- Full **QMK feature support**: tap dance, mod-tap, combos  
-- Optimized for **minimal hand travel** and **maximum comfort**  
-- Includes **custom thumb cluster logic**  
-- Uses new **map sorting method** for cleaner layer organization
+A customized QMK layout for the **Beekeeb Piantor Pro** — designed for comfort, symmetry, and efficient daily use.
 
 ---
 
-## 🗺️ Layout
+## ⚙️ Features
+
+- Split, **ergonomic** layout  
+- **Symmetric** layer philosophy (mirrored logic left/right)  
+- Full **QMK support**: tap-dance, mod-tap, combos  
+- Optimized for **minimal hand travel** and **maximum comfort**  
+- Custom **thumb cluster logic**  
+- Revised **layer organization and sorting method** for cleaner structure
+
+---
+
+## 🗺️ Layout Overview
 
 | Layer | Purpose |
-|-------|----------|
-| Base  | Letters, symbols |
-| Nav   | Directional, shortcuts |
-| Media | Volume, playback, system |
-| Num   | Numbers and symbols |
-| Game  | TBD (planned for Layer 5) |
-| Mouse | Cursor and click control |
+|--------|--------|
+| Base  | Primary typing layer (letters + essential symbols) |
+| Nav   | Movement, navigation, and shortcuts |
+| Media | Volume, playback, and system controls |
+| Num   | Number pad + symbol utilities |
+| Game  | Reserved (planned Layer 5) |
+| Mouse | Cursor control and mouse actions |
 
-made with <https://config.qmk.fm/#/beekeeb/piantor_pro/LAYOUT_split_3x6_3>
+Built using:  
+https://config.qmk.fm/#/beekeeb/piantor_pro/LAYOUT_split_3x6_3
 
-![0-2](src/main0-3.png)
+![0-2](src/main0-3.png)  
 ![3-5](src/main3-7.png)
 
 ---
 
 ## 🧩 Notes
 
-- New approach to **sorting keymaps**  
-- Refined **thumb cluster** mapping  
-- Layer logic designed for **flow and mirroring**
+- Introduces a new approach to **keymap sorting and organization**  
+- Refines **thumb cluster roles**  
+- Designed around **flow, predictability, and mirroring**
 
 ---
 
 ## 🎯 Goals
 
-**Short term**
+### Short Term
+- ✅ Finalize base, navigation, and media layers
+- ✅ Improve tap / hold consistency  
+- ⏳ Implement and refine **Layer 5 (Game layer)**  
 
-- ✅ Polish and finalize base, nav, and media layers  
-- ✅ Improve tap/hold behavior consistency  
-- 🔲 Implement and test **Layer 5 (Game layer)**  
-
-**Long term**
-
-- 🔲 Create **modular layer system** (dynamic layout switching)
-- 🔲 Add **auto-shift** and **combos** for faster input  
-- 🔲 Refine **layer naming** for clarity  
-- 🔲 Document workflow for **future builds or forks**
+### Long Term
+- ⏳ Modular layer system (dynamic layout switching)  
+- ⏳ Auto-shift + enhanced combos for faster input  
+- ⏳ Clearer layer naming conventions  
+- ⏳ Full documentation for contributors / forks  
 
 ---
 
