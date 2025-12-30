@@ -27,10 +27,10 @@ A customized QMK layout for the **Beekeeb Piantor Pro** — designed for comfort
 | Mouse | Cursor control and mouse actions |
 
 Built using:  
-https://config.qmk.fm/#/beekeeb/piantor_pro/LAYOUT_split_3x6_3
+<https://config.qmk.fm/#/beekeeb/piantor_pro/LAYOUT_split_3x6_3>
 
 ![0-2](src/main0-3.png)  
-![3-5](src/main3-7.png)
+![3-5](src/main4-7.png)
 
 ---
 
@@ -45,20 +45,16 @@ https://config.qmk.fm/#/beekeeb/piantor_pro/LAYOUT_split_3x6_3
 ## 🎯 Goals
 
 ### Short Term
+
 - ✅ Finalize base, navigation, and media layers
 - ✅ Improve tap / hold consistency  
 - ⏳ Implement and refine **Layer 5 (Game layer)**  
 
 ### Long Term
+
 - ⏳ Modular layer system (dynamic layout switching)  
 - ⏳ Auto-shift + enhanced combos for faster input  
 - ⏳ Clearer layer naming conventions  
 - ⏳ Full documentation for contributors / forks  
 
 ---
-
-## 🧰 Build & Flash
-
-```bash
-qmk compile -kb beekeeb/piantor_pro -km totem
-qmk flash -kb beekeeb/piantor_pro -km totem
