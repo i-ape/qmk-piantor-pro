@@ -88,8 +88,8 @@
       "KC_NO",
       "KC_NO",
       "KC_DEL",
-      "KC_LSFT",
       "KC_LGUI",
+      "KC_LSFT",
       "OS_MEH",
       "OS_HYPR",
       "QK_GESC"
@@ -132,8 +132,8 @@
       "KC_NO",
       "KC_NO",
       "KC_BSPC",
-      "KC_LSFT",
       "KC_LGUI",
+      "KC_LSFT",
       "OS_MEH",
       "OS_HYPR",
       "QK_GESC"
@@ -176,8 +176,8 @@
       "KC_F16",
       "KC_NO",
       "KC_BSPC",
-      "KC_LSFT",
       "KC_LGUI",
+      "KC_LSFT",
       "OS_MEH",
       "OS_HYPR",
       "QK_GESC"
