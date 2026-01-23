@@ -29,8 +29,16 @@ A customized QMK layout for the **Beekeeb Piantor Pro** — designed for comfort
 Built using:  
 <https://config.qmk.fm/#/beekeeb/piantor_pro/LAYOUT_split_3x6_3>
 
+# main
+
 ![0-2](src/main0-3.png)  
 ![3-5](src/main4-7.png)
+
+# main alt 0
+
+![0-3](src/main-alt0.0-3.png)  
+![4-7](src/main-alt0.4-7png)
+![8](src/main-alt0.8png)
 
 ---
 
