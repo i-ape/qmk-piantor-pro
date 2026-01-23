@@ -37,8 +37,8 @@ Built using:
 # main alt 0
 
 ![0-3](src/main-alt0.0-3.png)  
-![4-7](src/main-alt0.4-7png)
-![8](src/main-alt0.8png)
+![4-7](src/main-alt0.4-7.png)
+![8](src/main-alt0.8.png)
 
 ---
 
