@@ -139,7 +139,7 @@
       "QK_GESC"
     ],
     [
-      "QK_BOOT",
+      "KC_NO",
       "KC_NO",
       "KC_WREF",
       "KC_WSTP",
@@ -151,7 +151,7 @@
       "KC_MNXT",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
+      "QK_BOOT",
       "KC_NO",
       "KC_WBAK",
       "KC_WSCH",
