@@ -40,8 +40,13 @@ Built using:
 ![4-7](src/main-alt0.4-7.png)
 ![8](src/main-alt0.8.png)
 
----
+# main alt 1
 
+![0-3](src/main-alt1.0-3.png)  
+![4-7](src/main-alt1.4-7.png)
+![8](src/main-alt1.8-9.png)
+
+---
 ## 🧩 Notes
 
 - Introduces a new approach to **keymap sorting and organization**  
