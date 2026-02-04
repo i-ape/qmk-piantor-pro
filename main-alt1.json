@@ -64,7 +64,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_LSFT",
+      "KC_NO",
       "KC_4",
       "KC_5",
       "KC_6",
@@ -139,7 +139,7 @@
       "QK_GESC"
     ],
     [
-      "KC_NO",
+      "TO(5)",
       "KC_NO",
       "KC_WREF",
       "KC_WSTP",
@@ -414,7 +414,7 @@
       "KC_WSTP",
       "KC_WREF",
       "KC_NO",
-      "KC_NO",
+      "TO(5)",
       "KC_NO",
       "KC_NO",
       "KC_VOLD",
