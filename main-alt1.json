@@ -47,7 +47,7 @@
       "LT(4,KC_SPC)",
       "SC_SENT",
       "RCTL_T(KC_TAB)",
-      "ANY(HYPR_T(MS_BTN3))",
+      "LT(8,MS_BTN3)",
       "QK_GESC"
     ],
     [
