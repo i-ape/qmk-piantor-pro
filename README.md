@@ -43,9 +43,9 @@ Built using:
 # main alt 1
 
 ![0-3](src/main-alt1.0-3.png)  
-![0-3](src/main-alt1.5.png)  
-![4-7](src/main-alt1.9-10.png)
-![8](src/main-alt1.14-15.png)
+![5](src/main-alt1.5.png)  
+![9-10](src/main-alt1.9-10.png)
+![14-15](src/main-alt1.14-15.png)
 
 ---
 ## 🧩 Notes
