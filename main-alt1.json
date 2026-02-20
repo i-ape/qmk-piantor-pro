@@ -24,7 +24,7 @@
       "LALT_T(KC_S)",
       "HYPR_T(KC_D)",
       "LSFT_T(KC_F)",
-      "LAG_T(KC_F)",
+      "LAG_T(KC_G)",
       "RSAG_T(KC_Q)",
       "RSFT_T(KC_H)",
       "HYPR_T(KC_J)",
@@ -47,7 +47,7 @@
       "LT(14,KC_SPC)",
       "SC_SENT",
       "RCTL_T(KC_TAB)",
-      "LT(15,MS_BTN3)",
+      "ANY(LT(15,MS_BTN3))",
       "QK_GESC"
     ],
     [
