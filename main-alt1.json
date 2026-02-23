@@ -9,14 +9,14 @@
     [
       "KC_NO",
       "KC_NO",
-      "LAG_T(KC_W)",
+      "KC_W",
       "MEH_T(KC_E)",
       "LGUI_T(KC_R)",
-      "LSA_T(KC_T)",
-      "RSA_T(KC_Y)",
+      "KC_T",
+      "KC_Y",
       "RGUI_T(KC_U)",
       "MEH_T(KC_I)",
-      "RSAG_T(KC_O)",
+      "KC_O",
       "KC_NO",
       "KC_NO",
       "LT(9,KC_MINS)",
@@ -47,7 +47,7 @@
       "LT(14,KC_SPC)",
       "SC_SENT",
       "RGUI_T(KC_TAB)",
-      "LT(15,KC_APP)",
+      "LT(15,KC_LCTL)",
       "QK_GESC"
     ],
     [
@@ -88,10 +88,10 @@
       "KC_NO",
       "KC_NO",
       "KC_DEL",
-      "KC_LCTL",
+      "KC_SPC",
       "KC_LSFT",
-      "OS_MEH",
-      "OS_HYPR",
+      "KC_RSFT",
+      "KC_LCTL",
       "QK_GESC"
     ],
     [
@@ -659,12 +659,12 @@
       "KC_DEL",
       "KC_NO",
       "KC_NO",
-      "KC_DEL",
-      "KC_LGUI",
-      "KC_LSFT",
       "MS_BTN1",
       "MS_BTN3",
-      "MS_BTN2"
+      "MS_BTN2",
+      "KC_LSFT",
+      "KC_LGUI",
+      "KC_DEL"
     ],
     [
       "KC_NO",
