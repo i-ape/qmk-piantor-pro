@@ -9,14 +9,14 @@
     [
       "KC_NO",
       "KC_NO",
-      "KC_W",
+      "LALT_T(KC_W)",
       "MEH_T(KC_E)",
       "LGUI_T(KC_R)",
       "KC_T",
       "KC_Y",
       "RGUI_T(KC_U)",
       "MEH_T(KC_I)",
-      "KC_O",
+      "RALT_T(KC_O)",
       "KC_NO",
       "KC_NO",
       "LT(9,KC_MINS)",
@@ -24,8 +24,8 @@
       "LCTL_T(KC_S)",
       "HYPR_T(KC_D)",
       "LSFT_T(KC_F)",
-      "LALT_T(KC_G)",
-      "RALT_T(KC_Q)",
+      "KC_G",
+      "KC_Q",
       "RSFT_T(KC_H)",
       "HYPR_T(KC_J)",
       "RCTL_T(KC_K)",
@@ -659,11 +659,11 @@
       "KC_DEL",
       "KC_NO",
       "KC_NO",
-      "MS_BTN1",
       "MS_BTN3",
+      "MS_BTN1",
       "MS_BTN2",
-      "KC_LSFT",
       "KC_LGUI",
+      "KC_LSFT",
       "KC_DEL"
     ],
     [
@@ -704,11 +704,11 @@
       "MS_BTN5",
       "KC_NO",
       "KC_DEL",
-      "KC_LGUI",
       "KC_LSFT",
+      "KC_LGUI",
       "MS_BTN1",
-      "MS_BTN3",
-      "MS_BTN2"
+      "MS_BTN2",
+      "MS_BTN3"
     ]
   ],
   "author": "Anonymous"
