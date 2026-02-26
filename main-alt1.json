@@ -439,12 +439,12 @@
       "KC_PSTE",
       "KC_NO",
       "TO(5)",
-      "KC_BSPC",
-      "KC_LCTL",
-      "KC_LSFT",
-      "OS_MEH",
-      "OS_HYPR",
-      "QK_GESC"
+      "KC_MPRV",
+      "KC_MRWD",
+      "KC_MPLY",
+      "KC_MSTP",
+      "KC_MFFD",
+      "KC_MNXT"
     ],
     [
       "QK_BOOT",
@@ -483,12 +483,12 @@
       "KC_MFFD",
       "KC_F16",
       "KC_NO",
-      "KC_BSPC",
-      "KC_LCTL",
-      "KC_LSFT",
-      "OS_MEH",
-      "OS_HYPR",
-      "QK_GESC"
+      "KC_MPRV",
+      "KC_MRWD",
+      "KC_MPLY",
+      "KC_MSTP",
+      "KC_MFFD",
+      "KC_MNXT"
     ],
     [
       "KC_TRNS",
