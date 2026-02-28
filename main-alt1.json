@@ -439,12 +439,12 @@
       "KC_PSTE",
       "KC_NO",
       "TO(5)",
-      "KC_NO",
+      "KC_VOLD",
       "KC_MRWD",
       "KC_MPLY",
       "KC_MSTP",
       "KC_MFFD",
-      "KC_NO"
+      "KC_VOLU"
     ],
     [
       "QK_BOOT",
@@ -483,12 +483,12 @@
       "KC_MFFD",
       "KC_F16",
       "KC_NO",
-      "KC_NO",
+      "KC_VOLD",
       "KC_MRWD",
       "KC_MPLY",
       "KC_MSTP",
       "KC_MFFD",
-      "KC_NO"
+      "KC_VOLU"
     ],
     [
       "KC_TRNS",
