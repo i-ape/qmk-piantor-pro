@@ -661,7 +661,7 @@
       "KC_NO",
       "KC_ENT",
       "MS_BTN1",
-      "KC_LSFT",
+      "MS_BTN2",
       "MS_BTN1",
       "MS_BTN2",
       "KC_DEL"
@@ -705,7 +705,7 @@
       "KC_NO",
       "KC_DEL",
       "MS_BTN1",
-      "KC_LSFT",
+      "MS_BTN2",
       "MS_BTN1",
       "MS_BTN2",
       "KC_ENT"
