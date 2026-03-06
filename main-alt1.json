@@ -135,7 +135,7 @@
       "HYPR_T(KC_SPC)",
       "KC_LSFT",
       "KC_RGUI",
-      "MEH_T(KC_TAB)",
+      "MEH_T(KC_RCTL)",
       "QK_GESC"
     ],
     [
@@ -178,8 +178,8 @@
       "KC_LCTL",
       "KC_LSFT",
       "KC_LGUI",
-      "OS_MEH",
-      "OS_HYPR",
+      "MS_BTN1",
+      "MS_BTN2",
       "KC_RSFT"
     ],
     [
