@@ -44,10 +44,10 @@
       "LT(1,KC_P)",
       "KC_DOT",
       "KC_BSPC",
-      "LT(14,KC_SPC)",
       "SC_SENT",
-      "RCTL_T(KC_TAB)",
+      "LT(14,KC_SPC)",
       "LT(15,KC_RGUI)",
+      "RCTL_T(KC_TAB)",
       "QK_GESC"
     ],
     [
@@ -88,10 +88,10 @@
       "KC_NO",
       "KC_NO",
       "KC_DEL",
-      "KC_SPC",
       "KC_LSFT",
-      "KC_RGUI",
+      "KC_SPC",
       "KC_LCTL",
+      "KC_RGUI",
       "QK_GESC"
     ],
     [
@@ -132,10 +132,10 @@
       "KC_NO",
       "KC_NO",
       "KC_BSPC",
-      "HYPR_T(KC_SPC)",
       "KC_LSFT",
-      "KC_RGUI",
+      "HYPR_T(KC_SPC)",
       "MEH_T(KC_RCTL)",
+      "KC_RGUI",
       "QK_GESC"
     ],
     [
