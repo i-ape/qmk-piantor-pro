@@ -412,7 +412,7 @@
       "KC_NO",
       "QK_REP",
       "QK_AREP",
-      "KC_NO",
+      "KC_AGIN",
       "KC_NO",
       "QK_BOOT",
       "KC_NO",
@@ -449,7 +449,7 @@
     [
       "QK_BOOT",
       "KC_NO",
-      "KC_NO",
+      "KC_UNDO",
       "QK_AREP",
       "QK_REP",
       "KC_NO",
