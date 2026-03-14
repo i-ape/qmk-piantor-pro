@@ -9,7 +9,7 @@
     [
       "KC_NO",
       "KC_NO",
-      "LSA_T(KC_W)",
+      "LCG_T(KC_W)",
       "MEH_T(KC_E)",
       "LSFT_T(KC_R)",
       "KC_T",
@@ -44,10 +44,10 @@
       "RCTL_T(KC_P)",
       "LT(2,KC_DOT)",
       "KC_BSPC",
-      "LT(14,KC_SPC)",
       "SC_SENT",
-      "RCTL_T(KC_TAB)",
+      "LT(14,KC_SPC)",
       "LT(15,KC_RGUI)",
+      "RCTL_T(KC_TAB)",
       "QK_GESC"
     ],
     [
