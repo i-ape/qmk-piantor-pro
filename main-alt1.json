@@ -89,8 +89,8 @@
       "KC_NO",
       "KC_DEL",
       "KC_LSFT",
-      "KC_SPC",
       "KC_LCTL",
+      "KC_RCTL",
       "KC_RSFT",
       "QK_GESC"
     ],
@@ -133,9 +133,9 @@
       "KC_NO",
       "KC_BSPC",
       "KC_LSFT",
-      "HYPR_T(KC_SPC)",
+      "HYPR_T(KC_LCTL)",
       "MEH_T(KC_RCTL)",
-      "KC_RGUI",
+      "KC_RSFT",
       "QK_GESC"
     ],
     [
