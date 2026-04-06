@@ -663,8 +663,8 @@
       "MS_BTN1",
       "MS_BTN2",
       "MS_BTN1",
-      "KC_ENT",
-      "MS_BTN2"
+      "MS_BTN2",
+      "KC_ENT"
     ],
     [
       "KC_NO",
@@ -703,8 +703,8 @@
       "MS_WHLR",
       "MS_BTN5",
       "KC_NO",
-      "MS_BTN1",
       "KC_ENT",
+      "MS_BTN1",
       "MS_BTN2",
       "MS_BTN1",
       "MS_BTN2",
