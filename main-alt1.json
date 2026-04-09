@@ -152,7 +152,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
+      "KC_EXLM",
       "KC_PERC",
       "KC_QUES",
       "KC_PIPE",
@@ -166,7 +166,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_EXLM",
+      "KC_NO",
       "KC_AMPR",
       "KC_NO",
       "KC_NO",
@@ -179,8 +179,8 @@
       "KC_LSFT",
       "KC_LGUI",
       "OS_MEH",
-      "OS_HYPR",
-      "KC_RSFT"
+      "KC_RSFT",
+      "OS_HYPR"
     ],
     [
       "KC_TRNS",
