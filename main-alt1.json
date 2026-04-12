@@ -47,7 +47,7 @@
       "LT(14,KC_SPC)",
       "SC_SENT",
       "RCTL_T(KC_TAB)",
-      "ANY(LT(15,MS_BTN2))",
+      "LT(15,KC_MENU)",
       "QK_GESC"
     ],
     [
