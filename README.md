@@ -29,6 +29,14 @@ A customized QMK layout for the **Beekeeb Piantor Pro** — designed for comfort
 Built using:  
 <https://config.qmk.fm/#/beekeeb/piantor_pro/LAYOUT_split_3x6_3>
 
+
+# main alt 1 - current
+
+![0-3](src/main-alt1.0-3.png)
+![5-6](src/main-alt1.5-6.png)
+![9-10](src/main-alt1.9-10.png)
+![14-15](src/main-alt1.14-15.png)
+
 # main
 
 ![0-2](src/main0-3.png)  
@@ -40,12 +48,7 @@ Built using:
 ![4-7](src/main-alt0.4-7.png)
 ![8](src/main-alt0.8.png)
 
-# main alt 1----- dam i like this, now has boot on kb no need to unscrew
 
-![0-3](src/main-alt1.0-3.png)
-![5-6](src/main-alt1.5-6.png)
-![9-10](src/main-alt1.9-10.png)
-![14-15](src/main-alt1.14-15.png)
 
 ---
 ## 🧩 Notes
