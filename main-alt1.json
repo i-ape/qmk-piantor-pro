@@ -444,7 +444,7 @@
       "KC_MPLY",
       "QK_AREP",
       "QK_REP",
-      "KC_NO"
+      "KC_EXEC"
     ],
     [
       "KC_F24",
@@ -483,7 +483,7 @@
       "KC_F17",
       "KC_NO",
       "ANY(LGUI(S(KC_GRV)))",
-      "KC_NO",
+      "KC_EXEC",
       "QK_REP",
       "QK_AREP",
       "KC_MPLY",
