@@ -17,14 +17,17 @@ A customized QMK layout for the **Beekeeb Piantor Pro** — designed for comfort
 
 ## 🗺️ Layout Overview
 
-| Layer  | Purpose                                      |
-|--------|----------------------------------------------|
-| **Base**  | Primary typing layer (letters + essential symbols) |
-| **Nav**   | Movement, navigation, and shortcuts          |
-| **Media** | Volume, playback, and system controls        |
-| **Num**   | Number pad + symbol utilities                |
-| **Game**  | Reserved (planned Layer 5)                   |
-| **Mouse** | Cursor control and mouse actions             |
+| #  | Name              | Use |
+|----|-------------------|-----|
+| 0  | Base              | Letters |
+| 1  | Num               | Numbers |
+| 2  | Sym               | Symbols |
+| 5  | Game              | Game |
+| 6  | Game Num          | Game numbers |
+| 9  | Media             | Media |
+| 10 | Media (R)         | Media mirror |
+| 14 | Nav               | Navigation / browser |
+| 15 | Nav (R)           | Navigation mirror |
 
 Built with the [QMK Configurator](https://config.qmk.fm/#/beekeeb/piantor_pro/LAYOUT_split_3x6_3).
 
