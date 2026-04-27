@@ -66,7 +66,6 @@ Built with the [QMK Configurator](https://config.qmk.fm/#/beekeeb/piantor_pro/LA
 
 - ✅ Finalize base, navigation, and media layers
 - ✅ Improve tap / hold consistency  
-- ⏳ Implement and refine **Layer 5 (Game layer)**  
 
 ### Long Term
 
