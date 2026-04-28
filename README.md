@@ -1,17 +1,17 @@
 # qmk-piantor-pro
 
-A customized QMK layout for the **Beekeeb Piantor Pro** — designed for comfort, symmetry, and efficient daily use.
+Customized QMK layout **Beekeeb Piantor Pro** — designed for comfort, symmetry, cozy and efficient daily use.
 
 ---
 
 ## ⚙️ Features
 
-- Split, **ergonomic** layout  
-- **Symmetric** layer philosophy (mirrored logic left/right)  
-- Full **QMK support**: tap-dance, mod-tap, combos  
-- Optimized for **minimal hand travel** and **maximum comfort**  
-- Custom **thumb cluster logic**  
-- Revised **layer organization and sorting method** for cleaner structure  
+- Split ergonomic layout  
+- Left/right sides mirror each other  
+- Uses QMK features (mod-tap, tap-dance, combos)  
+- Keeps finger movement low  
+- Layers handled mostly by thumbs  
+- Layers organized in a way that makes sense to me
 
 ---
 
