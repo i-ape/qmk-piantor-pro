@@ -57,9 +57,9 @@ Built with the [QMK Configurator](https://config.qmk.fm/#/beekeeb/piantor_pro/LA
 
 ## 🧩 Notes
 
-- Introduces a new approach to **keymap sorting and organization**  
-- Refines **thumb cluster roles**  
-- Designed around **flow, predictability, and mirroring**
+- Reworked how layers are organized so they’re easier to follow  
+- Adjusted thumb keys to handle most layer switching  
+- Everything is built around consistency and mirroring  
 
 ---
 
@@ -67,12 +67,11 @@ Built with the [QMK Configurator](https://config.qmk.fm/#/beekeeb/piantor_pro/LA
 
 ### Short Term
 
-- ✅ Finalize base, navigation, and media layers
-- ✅ Improve tap / hold consistency  
+- Base, nav, and media layers are done  
+- Still tuning tap/hold behavior  
 
 ### Long Term
 
-- ⏳ Modular layer system (dynamic layout switching)  
-- ⏳ Auto-shift + enhanced combos for faster input  
-- ⏳ Clearer layer naming conventions  
-- ⏳ Full documentation for contributors / forks
+- Improve combos and possibly add auto-shift  
+- Clean up layer naming  
+- Document things properly if I ever share this
