@@ -7,7 +7,7 @@ Customized QMK layout **Beekeeb Piantor Pro** — designed for comfort, symmetry
 ## ⚙️ Features
 
 - Split ergonomic layout  
-- Left/right sides mirror each other  
+- Navigation and media control left/right sides mirror each other  
 - Uses QMK features (mod-tap, tap-dance, combos)  
 - Keeps finger movement low  
 - Layers handled mostly by thumbs  
