@@ -7,7 +7,7 @@
   "layout": "LAYOUT_split_3x6_3",
   "layers": [
     [
-      "KC_NO",
+      "ANY(LT(11,OS_MEH))",
       "KC_NO",
       "LCA_T(KC_W)",
       "MEH_T(KC_E)",
@@ -18,7 +18,7 @@
       "MEH_T(KC_I)",
       "RSA_T(KC_O)",
       "KC_NO",
-      "KC_NO",
+      "ANY(LT(11,OS_HYPR))",
       "LT(9,KC_MINS)",
       "LT(15,KC_A)",
       "LCTL_T(KC_S)",
@@ -36,8 +36,8 @@
       "LT(3,KC_X)",
       "LT(2,KC_C)",
       "LT(1,KC_V)",
-      "LT(11,OS_MEH)",
-      "LT(11,OS_HYPR)",
+      "KC_NO",
+      "KC_NO",
       "LT(1,KC_B)",
       "LT(2,KC_N)",
       "LT(3,KC_M)",

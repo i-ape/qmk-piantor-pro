@@ -40,6 +40,7 @@ Built with the [QMK Configurator](https://config.qmk.fm/#/beekeeb/piantor_pro/LA
 ![keys&symbols 0-3](src/main-alt1.0-3.png "Base / Symbols Layer")
 ![game5-6](src/main-alt1.5-6.png "Game Layer")
 ![media 9-10](src/main-alt1.9-10.png "Media Layer")
+![fn 11](src/main-alt1.11.png "Function layer")
 ![nav 14-15](src/main-alt1.14-15.png "Navigation Layer")
 
 ### Main
