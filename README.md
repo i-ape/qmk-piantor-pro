@@ -26,6 +26,7 @@ Customized QMK layout **Beekeeb Piantor Pro** — designed for comfort, symmetry
 | 6  | Game Num          | Game numbers |
 | 9  | Media             | Media |
 | 10 | Media (R)         | Media mirror |
+| 11 | Function          | Function keys |
 | 14 | Nav               | Navigation / browser |
 | 15 | Nav (R)           | Navigation mirror |
 
@@ -37,10 +38,10 @@ Built with the [QMK Configurator](https://config.qmk.fm/#/beekeeb/piantor_pro/LA
 
 ### Main Alt 1 (Current)
 
-![keys&symbols 0-3](src/main-alt1.0-3.png "Base / Symbols Layer")
-![game5-6](src/main-alt1.5-6.png "Game Layer")
+![keys & symbols 0-3](src/main-alt1.0-3.png "Base / Symbols Layer")
+![game 5-6](src/main-alt1.5-6.png "Game Layer")
 ![media 9-10](src/main-alt1.9-10.png "Media Layer")
-![fn 11](src/main-alt1.11.png "Function layer")
+![function 11](src/main-alt1.11.png "Function layer")
 ![nav 14-15](src/main-alt1.14-15.png "Navigation Layer")
 
 ### Main
