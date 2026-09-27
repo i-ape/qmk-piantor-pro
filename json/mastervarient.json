@@ -132,10 +132,10 @@
       "KC_NO",
       "KC_NO",
       "KC_BSPC",
-      "KC_LSFT",
       "KC_LCTL",
-      "KC_RCTL",
+      "KC_LSFT",
       "KC_RSFT",
+      "KC_RCTL",
       "QK_GESC"
     ],
     [
