@@ -17,18 +17,18 @@ Customized QMK layout **Beekeeb Piantor Pro** — designed for comfort, symmetry
 
 ## 🗺️ Layout Overview
 
-| #  | Name              | Use |
-|----|-------------------|-----|
-| 0  | Base              | Letters |
-| 1  | Num               | Numbers |
-| 2  | Sym               | Symbols |
-| 5  | Game              | Game |
-| 6  | Game Num          | Game numbers |
-| 9  | Media             | Media |
-| 10 | Media (R)         | Media mirror |
-| 11 | Function          | Function keys |
-| 14 | Nav               | Navigation / browser |
-| 15 | Nav (R)           | Navigation mirror |
+| #  | Name              | Use                 |
+|----|-------------------|---------------------|
+| 0  | Base              | Letters             |
+| 1  | Num               | Numbers             |
+| 2  | Sym               | Symbols             |
+| 5  | Game              | Game                |
+| 6  | Game Num          | Game numbers        |
+| 9  | Media             | Media               |
+| 10 | Media (R)         | Media mirror        |
+| 11 | Function          | Function keys       |
+| 14 | Nav               | Navigation / browser|
+| 15 | Nav (R)           | Navigation mirror   |
 
 Built with the [QMK Configurator](https://config.qmk.fm/#/beekeeb/piantor_pro/LAYOUT_split_3x6_3).
 
@@ -46,7 +46,9 @@ Built with the [QMK Configurator](https://config.qmk.fm/#/beekeeb/piantor_pro/LA
 
 ### Mastervarient test
 
+
 !
+
 ### Main
 
 ![0-2](src/main0-3.png)  
