@@ -440,8 +440,8 @@
       "KC_STOP",
       "KC_PWR",
       "KC_VOLD",
-      "KC_VOLU",
       "KC_MPLY",
+      "KC_VOLU",
       "QK_AREP",
       "QK_REP",
       "KC_EXEC"
@@ -486,8 +486,8 @@
       "KC_EXEC",
       "QK_REP",
       "QK_AREP",
-      "KC_MPLY",
       "KC_VOLD",
+      "KC_MPLY",
       "KC_VOLU"
     ],
     [
