@@ -51,7 +51,7 @@
       "QK_GESC"
     ],
     [
-      "KC_NO",
+      "QK_BOOT",
       "KC_NO",
       "KC_7",
       "KC_8",
@@ -62,7 +62,7 @@
       "KC_PDOT",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
+      "QK_BOOT",
       "KC_NO",
       "KC_NO",
       "KC_4",
@@ -415,7 +415,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "ANY(LGUI(S(KC_GRV)))",
+      "KC_NO",
       "KC_NO",
       "KC_MUTE",
       "KC_VOLD",
@@ -427,7 +427,7 @@
       "KC_WREF",
       "KC_WSTP",
       "ANY(LGUI(S(KC_GRV)))",
-      "KC_NO",
+      "ANY(LGUI(S(KC_GRV)))",
       "KC_NO",
       "KC_NO",
       "KC_MRWD",
@@ -634,7 +634,7 @@
       "KC_UP",
       "MS_BTN2",
       "KC_NO",
-      "QK_BOOT",
+      "KC_NO",
       "KC_NO",
       "KC_LSFT",
       "MS_LEFT",
@@ -667,7 +667,7 @@
       "KC_ENT"
     ],
     [
-      "QK_BOOT",
+      "KC_NO",
       "KC_NO",
       "MS_BTN1",
       "KC_UP",
