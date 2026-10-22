@@ -92,7 +92,7 @@
       "SC_SENT",
       "KC_LALT",
       "KC_LGUI",
-      "QK_GESC"
+      "KC_ESC"
     ],
     [
       "KC_NO",
@@ -177,8 +177,8 @@
       "ANY(LGUI(S(KC_GRV)))",
       "OS_MEH",
       "KC_LCTL",
-      "SC_LSPO",
-      "SC_RSPC",
+      "KC_LSFT",
+      "KC_RSFT",
       "OS_HYPR",
       "KC_LGUI"
     ],
