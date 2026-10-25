@@ -7,3 +7,6 @@ added 7 & 8 on pinky may replace symbols layer
 on pinky added f23 & f24, will make shortcuts in window manager
 must make img diffent on next itteration
 13/3/25 layer 2 needs some more order, can be split into 3 too maybe
+
+
+i must continue my streak, this is a odd form of cheating
