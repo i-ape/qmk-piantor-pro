@@ -48,6 +48,8 @@ Built with the [QMK Configurator](https://config.qmk.fm/#/beekeeb/piantor_pro/LA
 
 ![keys & symbols 0-3](src/mastervarient.0-3.png "Base / Symbols Layer")
 ![game 5-6](src/mastervarient.5-6.png "Game Layer")
+![nav 14-15](src/mastervarient.5-6.png "Nav Layer")
+
 
 ### Main
 
