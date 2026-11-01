@@ -36,6 +36,13 @@ Built with the [QMK Configurator](https://config.qmk.fm/#/beekeeb/piantor_pro/LA
 
 ## 📸 Keymap Previews
 
+### Mastervarient (Current)
+
+![keys & symbols 0-3](src/mastervarient.0-3.png "Base / Symbols Layer")
+![game 5-6](src/mastervarient.5-6.png "Game Layer")
+![media 9-10](src/mastervarient.9-10.png "Media Layer")
+![nav 14-15](src/mastervarient.5-6.png "Nav Layer") ------fix
+
 ### Main Alt 1
 
 ![keys & symbols 0-3](src/main-alt1.0-3.png "Base / Symbols Layer")
@@ -43,13 +50,6 @@ Built with the [QMK Configurator](https://config.qmk.fm/#/beekeeb/piantor_pro/LA
 ![media 9-10](src/main-alt1.9-10.png "Media Layer")
 ![function 11](src/main-alt1.11.png "Function layer")
 ![nav 14-15](src/main-alt1.14-15.png "Navigation Layer")
-
-### Mastervarient (Current)
-
-![keys & symbols 0-3](src/mastervarient.0-3.png "Base / Symbols Layer")
-![game 5-6](src/mastervarient.5-6.png "Game Layer")
-![nav 14-15](src/mastervarient.5-6.png "Nav Layer")
-
 
 ### Main
 
