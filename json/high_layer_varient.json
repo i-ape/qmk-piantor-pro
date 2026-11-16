@@ -131,12 +131,12 @@
       "KC_NO",
       "KC_NO",
       "ANY(LGUI(S(KC_GRV)))",
-      "KC_NO",
+      "KC_BSPC",
       "KC_LCTL",
       "KC_LSFT",
       "KC_RSFT",
-      "KC_RCTL",
-      "KC_NO"
+      "KC_RGUI",
+      "KC_ESC"
     ],
     [
       "KC_NO",
@@ -175,12 +175,12 @@
       "KC_NO",
       "KC_NO",
       "ANY(LGUI(S(KC_GRV)))",
-      "KC_NO",
+      "KC_BSPC",
       "KC_LCTL",
       "KC_LSFT",
       "KC_RSFT",
-      "KC_RALT",
-      "KC_NO"
+      "KC_RGUI",
+      "KC_ESC"
     ],
     [
       "KC_TRNS",
